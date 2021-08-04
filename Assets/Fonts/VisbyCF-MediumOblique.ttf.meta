@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 4fc20486c6bd60845a35960430b9a2d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Visby CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 240efb6e599aba84ebbf31cbc0614788, type: 3}
+  - {fileID: 12800000, guid: 4258680ae35e2814caa70f609889982b, type: 3}
+  - {fileID: 12800000, guid: 7860ddc3a0610284bac08e9fba8de716, type: 3}
+  - {fileID: 12800000, guid: 73440706ed0cf0247bc9a4ee69c34c38, type: 3}
+  - {fileID: 12800000, guid: bb6143ebe7d5b6e4f9a324337eb5d676, type: 3}
+  - {fileID: 12800000, guid: 6e323899f4cc2c241a3c38637e7e5df3, type: 3}
+  - {fileID: 12800000, guid: 29d3b67f573560c4996bff54f856229d, type: 3}
+  - {fileID: 12800000, guid: d0d772fb754b50d409f69ad2a8eacc8a, type: 3}
+  - {fileID: 12800000, guid: 730a9f378a28cb444b05cc9f57e8b21e, type: 3}
+  - {fileID: 12800000, guid: 00cb9abccd4274a4a8df288ed64bfa67, type: 3}
+  - {fileID: 12800000, guid: 4a74d13367b12e840b9f38f3acab3bbc, type: 3}
+  - {fileID: 12800000, guid: d30e6d31b8697cc4bac96607956398c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
